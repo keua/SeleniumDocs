@@ -41,13 +41,15 @@ Others|Test execution only via Selenium RC|	Partial support possible**|	As appli
 Selenium IDE is an development integrated enviroment to make tests.
 ## Requisitos:
 * Firefox
-## Instalación
+## Instalation
 * Desde add-ons de Mozilla Firefox
-* Referencia http://www.seleniumhq.org/download/ 
+* Ref. [instalation](http://www.seleniumhq.org/download/) 
+
 ## Técnicas para desarrollar tests
 * Recording
 * Adding Verifications and Asserts With the Context Menu
 * Editing
+
 ## Running test cases
 * Run test case
 * Run test suite
@@ -55,10 +57,12 @@ Selenium IDE is an development integrated enviroment to make tests.
 * Stop in the middle
 * Start from the middle
 * Run any single command
+
 ## Selenium commands
 * Actions
 * Accessors
 * Assertions
+
 ## Commonly used  Selenium commands
 * Open
 * Click/clickAndWait
