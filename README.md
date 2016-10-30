@@ -23,20 +23,7 @@ Actually there are three platforms:
 
 | Browser | Selenium IDE | Selenium 1(RC) | SO |
 | ------- | ------------ | -------------- | -- |
-| Firefox 3.x | Record and playback tests | Start browser, run tests | Windows, Linux, Mac |
-| Firefox 3 | Record and playback tests | Start browser, run tests | Windows, Linux, Mac |
-| Firefox 2 | Record and playback tests | Start browser, run tests | Windows, Linux, Mac |
-| IE 8 | Test execution only via Selenium RC* | Start browser, run tests |	Windows |
-| IE 7 | Test execution only via Selenium RC* | Start browser, run tests |	Windows |
-| IE 6 | Test execution only via Selenium RC* | Start browser, run tests |	Windows |
-| Safari 4 | Test execution only via Selenium RC |	Start browser, run tests |	Windows, Mac |
-| Safari 3 | Test execution only via Selenium RC |	Start browser, run tests |	Windows, Mac |
-| Safari 2 | Test execution only via Selenium RC |	Start browser, run tests |	Windows, Mac |
-| Opera 10 | Test execution only via Selenium RC |	Start browser, run tests |	Windows, Linux, Mac |
-| Opera 9 | Test execution only via Selenium RC |	Start browser, run tests |	Windows, Linux, Mac |
-| Opera 8 | Test execution only via Selenium RC |	Start browser, run tests |	Windows, Linux, Mac |
-| Google Chrome | Test execution only via Selenium RC |	Start browser, run tests |	Windows, Linux, Mac |
-| Others | Test execution only via Selenium RC |	Partial support possible |	As applicable |
+
 
 # Selenium IDE
 Selenium IDE is an development integrated enviroment to make tests.
