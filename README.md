@@ -100,8 +100,9 @@ Selenium IDE is an development integrated enviroment to make tests.
 >WebDriver is a web automation framework that allows you to execute your tests against different browsers, not just Firefox (unlike Selenium IDE). WebDriver also enables you to use a programming language in creating your test scripts (not possible in Selenium IDE).
 Ref. [Selenium](http://www.guru99.com/introduction-webdriver-comparison-selenium-rc.html)
 
-
--> ![image](http://cdn.guru99.com/images/WebDriver_and_Browsers(1).jpg) <-
+<p align="center">
+<img src="http://cdn.guru99.com/images/WebDriver_and_Browsers(1).jpg">
+</p>
     
 ## Following programming languages, are supported by WebDriver
 * Java
@@ -113,7 +114,9 @@ Ref. [Selenium](http://www.guru99.com/introduction-webdriver-comparison-selenium
 * JavaScript
 
 # Selenium RC
--> ![image](http://www.seleniumhq.org/selenium-rc.png) <-
+<p align="center">
+<img src="http://www.seleniumhq.org/selenium-rc.png">
+</p>
 
 ## Requirements
 * Java 1.5 or later
@@ -127,11 +130,15 @@ Ref. [Selenium](http://www.guru99.com/introduction-webdriver-comparison-selenium
 * Perl, PHP
 
 ## Architecture
--> ![image](http://www.seleniumhq.org/docs/_images/chapt5_img02_Architecture_Diagram_1.png) <-
+<p align="center">
+<img src="http://www.seleniumhq.org/docs/_images/chapt5_img02_Architecture_Diagram_1.png">
+</p>
 
 Heightened priviliges browsers
 
--> ![image](http://www.seleniumhq.org/docs/_images/chapt5_img02_Architecture_Diagram_2.png) <-
+<p align="center">
+<img src="http://www.seleniumhq.org/docs/_images/chapt5_img02_Architecture_Diagram_2.png">
+</p>
 
 # Test Design considerations
 
