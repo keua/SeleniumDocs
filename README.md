@@ -101,7 +101,7 @@ Selenium IDE is an development integrated enviroment to make tests.
 Ref. [Selenium](http://www.guru99.com/introduction-webdriver-comparison-selenium-rc.html)
 
 
-![image](http://cdn.guru99.com/images/WebDriver_and_Browsers(1).jpg)
+-> ![image](http://cdn.guru99.com/images/WebDriver_and_Browsers(1).jpg) <-
     
 ## Following programming languages, are supported by WebDriver
 * Java
@@ -113,7 +113,7 @@ Ref. [Selenium](http://www.guru99.com/introduction-webdriver-comparison-selenium
 * JavaScript
 
 # Selenium RC
-![image](http://www.seleniumhq.org/selenium-rc.png)
+-> ![image](http://www.seleniumhq.org/selenium-rc.png) <-
 
 ## Requirements
 * Java 1.5 or later
@@ -127,11 +127,11 @@ Ref. [Selenium](http://www.guru99.com/introduction-webdriver-comparison-selenium
 * Perl, PHP
 
 ## Architecture
-![image](http://www.seleniumhq.org/docs/_images/chapt5_img02_Architecture_Diagram_1.png)
+-> ![image](http://www.seleniumhq.org/docs/_images/chapt5_img02_Architecture_Diagram_1.png) <-
 
 Heightened priviliges browsers
 
-![image](http://www.seleniumhq.org/docs/_images/chapt5_img02_Architecture_Diagram_2.png)
+-> ![image](http://www.seleniumhq.org/docs/_images/chapt5_img02_Architecture_Diagram_2.png) <-
 
 # Test Design considerations
 
