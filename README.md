@@ -36,7 +36,7 @@ Actually there are three platforms:
 | Opera 9 | Test execution only via Selenium RC |	Start browser, run tests |	Windows, Linux, Mac |
 | Opera 8 | Test execution only via Selenium RC |	Start browser, run tests |	Windows, Linux, Mac |
 | Google Chrome | Test execution only via Selenium RC |	Start browser, run tests |	Windows, Linux, Mac |
-| Others | Test execution only via Selenium RC |	Partial support possible** |	As applicable |
+| Others | Test execution only via Selenium RC |	Partial support possible |	As applicable |
 
 # Selenium IDE
 Selenium IDE is an development integrated enviroment to make tests.
@@ -102,7 +102,7 @@ Ref. [Selenium](http://www.guru99.com/introduction-webdriver-comparison-selenium
 
 ![image](http://cdn.guru99.com/images/WebDriver_and_Browsers(1).jpg)
     
-Following programming languages, are supported by WebDriver
+## Following programming languages, are supported by WebDriver
 * Java
 * C#
 * PHP
