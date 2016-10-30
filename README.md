@@ -1,5 +1,5 @@
 # Selenium
-Tool that bring us a set of commands to automatize web tests. Selenium could be programed on different languages.
+>Tool that bring us a set of commands to automatize web tests. Selenium could be programed on different languages.
 Actually there are three platforms:
  
 * Selenium 1, is deprecated and does not have support.
@@ -96,8 +96,10 @@ Selenium IDE is an development integrated enviroment to make tests.
 * Debugging
 
 # Selenium web driver
-WebDriver is a web automation framework that allows you to execute your tests against different browsers, not just Firefox (unlike Selenium IDE). WebDriver also enables you to use a programming language in creating your test scripts (not possible in Selenium IDE).
+>WebDriver is a web automation framework that allows you to execute your tests against different browsers, not just Firefox (unlike Selenium IDE). WebDriver also enables you to use a programming language in creating your test scripts (not possible in Selenium IDE).
 Ref. [Selenium](http://www.guru99.com/introduction-webdriver-comparison-selenium-rc.html)
+
+
 ![image](http://cdn.guru99.com/images/WebDriver_and_Browsers(1).jpg)
     
 Following programming languages, are supported by WebDriver
@@ -142,21 +144,21 @@ Heightened priviliges browsers
 * Database validation
 
 # Selenium Grid
-Selenium-Grid allows you run your tests on different machines against different browsers in parallel.
+>Selenium-Grid allows you run your tests on different machines against different browsers in parallel.
 When use it:
 * To run your tests against multiple browsers, multiple versions of browser, and browsers running on different operating systems.
 * To reduce the time it takes for the test suite to complete a test pass.
 
 ## Instalation
-Does not need. it’s a single jar file.
+>Does not need. it’s a single jar file.
 
 # User extensions
-Extending Selenium by adding your own actions, assertions and locator-strategies can be quite simple. Add JavaScript methods to the Selenium object prototype and the PageBot object prototype.
+>Extending Selenium by adding your own actions, assertions and locator-strategies can be quite simple. Add JavaScript methods to the Selenium object prototype and the PageBot object prototype.
 
 # Selenium RC or Web Driver
 
 ## Why Migrate to WebDriver
-Moving a suite of tests from one API to another API requires an enormous amount of effort. Why would you and your team consider making this move? Here are some reasons why you should consider migrating your Selenium Tests to use WebDriver.
+>Moving a suite of tests from one API to another API requires an enormous amount of effort. Why would you and your team consider making this move? Here are some reasons why you should consider migrating your Selenium Tests to use WebDriver.
 * Smaller, compact API. WebDriver’s API is more Object Oriented than the original Selenium RC API. This can make it easier to work with.
 * Better emulation of user interactions. Where possible, WebDriver makes use of native events in order to interact with a web page. This more closely mimics the way that your users work with your site and apps. In addition, WebDriver offers the advanced user interactions APIs which allow you to model complex interactions with your site.
 * Support by browser vendors. Opera, Mozilla and Google are all active participants in WebDriver’s development, and each have engineers working to improve the framework. Often, this means that support for WebDriver is baked into the browser itself: your tests run as fast and as stably as possible.
