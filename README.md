@@ -23,7 +23,7 @@ Actually there are three platforms:
 
 | Browsers | Selenium IDE | Selenium RC | Operative System |
 | -------- | ------------ | ----------- | ---------------- |
-|  holaco  | fasdfsadfadd | hola como e | fasfasdfaaaaaaaa |
+| Firefox 3.x | Record and playback tests | Start browser, run tests | Windows, Linux, Mac |
 
 
 # Selenium IDE
