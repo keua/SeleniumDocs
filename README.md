@@ -23,7 +23,7 @@ Actually there are three platforms:
 
 | Browsers | Selenium IDE | Selenium RC | SO |
 | -------- | ------------ | ----------- | -- |
-| hola     | adios        | que tal     | na |
+|          |              |             |    |
 
 
 # Selenium IDE
