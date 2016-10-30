@@ -21,8 +21,10 @@ Actually there are three platforms:
 
 ## Selenium 1.0, Selenium RC
 
+
 | Browser | Selenium IDE | Selenium 1(RC) | SO |
 | ------- | ------------ | -------------- | -- |
+| aaaaaaa | aaaaaaaaaaaa | aaaaaaaaaaaaaa | aa |
 
 
 # Selenium IDE
