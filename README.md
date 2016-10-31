@@ -6,7 +6,7 @@ Actually there are three platforms:
 * Selenium 2, is the last version.
 * Selenium IDE, is a firefox plugin that help us to make the web tests.
 
-## Plataformas soportadas:
+## supported platforms:
 
 ### Web driver:
 * Google Chrome
@@ -42,14 +42,14 @@ Actually there are three platforms:
 # Selenium IDE
 Selenium IDE is an development integrated enviroment to make tests.
 
-## Requisitos:
+## Requirements:
 * Firefox
 
 ## Instalation
 * Desde add-ons de Mozilla Firefox
 * Ref. [instalation](http://www.seleniumhq.org/download/) 
 
-## Técnicas para desarrollar tests
+## Tests development techniques
 * Recording
 * Adding Verifications and Asserts With the Context Menu
 * Editing
