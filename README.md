@@ -45,9 +45,9 @@ Selenium IDE is an development integrated enviroment to make tests.
 ## Requirements:
 * Firefox
 
-## Instalation
+## Installation
 * Desde add-ons de Mozilla Firefox
-* Ref. [instalation](http://www.seleniumhq.org/download/) 
+* Ref. [installation](http://www.seleniumhq.org/download/) 
 
 ## Tests development techniques
 * Recording
@@ -157,7 +157,7 @@ When use it:
 * To run your tests against multiple browsers, multiple versions of browser, and browsers running on different operating systems.
 * To reduce the time it takes for the test suite to complete a test pass.
 
-## Instalation
+## Installation
 >Does not need. it’s a single jar file.
 
 # User extensions
